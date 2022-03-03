@@ -2,8 +2,9 @@
  * polynomial are stored using structure
  * and program uses array of structure
  */
- #include<stdio.h>
-
+#include<stdio.h>
+#include <conio.h>
+#include <stdlib.h>
 
  /* declare structure for polynomial */
  struct poly
