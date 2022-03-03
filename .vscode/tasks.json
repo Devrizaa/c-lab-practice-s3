@@ -60,6 +60,18 @@
 				"kind": "build",
 				"isDefault": true
 			}
+		},
+		{
+			"type": "shell",
+			"id": "shell, ,",
+			"problemMatcher": [
+				"$gcc"
+			],
+			"label": "C_Cpp_Runner: Build: Folder",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		}
 	]
 }
